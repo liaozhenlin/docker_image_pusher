@@ -1,2 +1,2 @@
-xwiki
+xwiki:stable-postgres-tomcat
 #test
