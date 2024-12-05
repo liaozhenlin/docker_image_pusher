@@ -1,2 +1,3 @@
-xwiki:stable-postgres-tomcat
+apache/doris:doris-be-2.1.7
+#xwiki:stable-postgres-tomcat
 #test
