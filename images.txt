@@ -1,4 +1,5 @@
-filebrowser/filebrowser:v2-s6
+node:18-alpine
+#filebrowser/filebrowser:v2-s6
 #apache/doris:doris-be-2.1.7
 #xwiki:stable-postgres-tomcat
 #test
