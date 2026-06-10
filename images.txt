@@ -1,4 +1,4 @@
-elleflorio/svn-server:latest
+jenkins/jenkins:2.541.3-ltselleflorio/svn-server:latest
 #node:18-alpine
 #filebrowser/filebrowser:v2-s6
 #apache/doris:doris-be-2.1.7
