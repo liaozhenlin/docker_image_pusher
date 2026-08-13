@@ -1,4 +1,5 @@
-gerritcodereview/gerrit
+ubuntu:26.04
+#gerritcodereview/gerrit
 #jenkins/jenkins:2.541.3-lts
 #elleflorio/svn-server:latest
 #node:18-alpine
